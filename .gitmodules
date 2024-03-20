@@ -1,0 +1,6 @@
+[submodule "notifications_service"]
+	path = notifications_service
+	url = https://github.com/Zichis/next_basket_notification_service
+[submodule "users_service"]
+	path = users_service
+	url = https://github.com/Zichis/next_basket_user_service
